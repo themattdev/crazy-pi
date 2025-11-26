@@ -1,0 +1,25 @@
+{
+  "name": "crazy-pi",
+  "version": "1.0.0",
+  "description": "Collection of applications for my raspberry pi",
+  "keywords": [
+    "Node",
+    "Raspberry",
+    "Pi"
+  ],
+  "homepage": "https://github.com/themattdev/crazy-pi#readme",
+  "bugs": {
+    "url": "https://github.com/themattdev/crazy-pi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themattdev/crazy-pi.git"
+  },
+  "license": "MIT",
+  "author": "Matthias Hesse",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
